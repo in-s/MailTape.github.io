@@ -21,6 +21,11 @@ track6_title: Ménage à Trois - Conditional Love
 track6_color: dreamy
 track7_title: Ben Ji - Anchors
 track7_color: vibrant
+track2_title: Cluster - Sowiesoso
+track2_color: trippy
+track3_title: Haruomi Hosono - Pleocene (プリオシーヌ)
+track3_color: vibrant
+track5_title: These New Puritans - This Guy's In Love With You
 ---
 ## A New Post
 
