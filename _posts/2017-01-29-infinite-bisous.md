@@ -9,7 +9,7 @@ guest_color: dreamy
 track5_link: 'https://soundcloud.com/tasty-morsels/life-you'
 track6_link: 'https://soundcloud.com/crackirecords/04-me-nage-a-trois-conditional'
 track7_link: 'https://soundcloud.com/benjamin_munoz/anchors'
-track4_link: 'https://soundcloud.com/tasty-morsels/life-you'
+track4_link: 'https://soundcloud.com/these-new-puritans/this-guys-in-love-with-you-1'
 track2_link: 'https://mailtapetracks.s3.amazonaws.com/245/track2.mp3'
 guest_name: infinite bisous
 author: MailTape Crew
@@ -26,6 +26,8 @@ track2_color: trippy
 track3_title: Haruomi Hosono - Pleocene (プリオシーヌ)
 track3_color: vibrant
 track5_title: These New Puritans - This Guy's In Love With You
+track1_color: dreamy
+track5_color: bliss
 ---
 ## A New Post
 
