@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 category: '250'
 track1_link: 'https://soundcloud.com/tasty-morsels/h-hunt-rice-wine'
 track3_link: 'https://soundcloud.com/andrevitch/haroumi-hosono-1989'
