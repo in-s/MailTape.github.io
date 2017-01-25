@@ -9,7 +9,7 @@ guest_color: dreamy
 track5_link: 'https://soundcloud.com/these-new-puritans/this-guys-in-love-with-you-3'
 track6_link: 'https://soundcloud.com/crackirecords/04-me-nage-a-trois-conditional'
 track7_link: 'https://soundcloud.com/benjamin_munoz/anchors'
-track4_link: 'https://soundcloud.com/tasty-morsels/sets/infinite-bisous-teen-sex-life'
+track4_link: 'https://soundcloud.com/tasty-morsels/life-you'
 track2_link: 'https://mailtapetracks.s3.amazonaws.com/245/track2.mp3'
 guest_name: infinite bisous
 author: MailTape Crew
