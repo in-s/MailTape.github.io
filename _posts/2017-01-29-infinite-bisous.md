@@ -5,11 +5,12 @@ published: false
 illustrator: Pierre-Julien Fieux
 category: '245'
 track1_link: 'https://soundcloud.com/tasty-morsels/h-hunt-rice-wine'
-track2_link: 'https://mailtapetracks.s3.amazonaws.com/245/track2.mp3'
+track2_link: 'https://soundcloud.com/tasty-morsels/life-you'
 track3_link: 'https://soundcloud.com/andrevitch/haroumi-hosono-1989'
 track5_link: 'https://soundcloud.com/these-new-puritans/this-guys-in-love-with-you-1'
 track6_link: 'https://soundcloud.com/crackirecords/04-me-nage-a-trois-conditional'
 track7_link: 'https://soundcloud.com/benjamin_munoz/anchors'
+track4_link: 'https://soundcloud.com/tasty-morsels/life-you'
 ---
 ## A New Post
 
