@@ -14,7 +14,13 @@ track2_link: 'https://mailtapetracks.s3.amazonaws.com/245/track2.mp3'
 guest_name: infinite bisous
 author: MailTape Crew
 illustrator: Pierre-Julien Fieux
-episode_URL: 'http://mailta.pe/245/infinite-bisous/'
+track1_title: h hunt - rice wine
+track4_title: infinite bisous - life + you
+track4_color: dreamy
+track6_title: Ménage à Trois - Conditional Love
+track6_color: dreamy
+track7_title: Ben Ji - Anchors
+track7_color: vibrant
 ---
 ## A New Post
 
