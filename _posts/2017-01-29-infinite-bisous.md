@@ -6,7 +6,7 @@ category: '245'
 track1_link: 'https://soundcloud.com/tasty-morsels/h-hunt-rice-wine'
 track3_link: 'https://soundcloud.com/andrevitch/haroumi-hosono-1989'
 guest_color: dreamy
-track5_link: 'https://soundcloud.com/these-new-puritans/this-guys-in-love-with-you-3'
+track5_link: 'https://soundcloud.com/these-new-puritans/this-guys-in-love-with-you-2'
 track6_link: 'https://soundcloud.com/crackirecords/04-me-nage-a-trois-conditional'
 track7_link: 'https://soundcloud.com/benjamin_munoz/anchors'
 track4_link: 'https://soundcloud.com/tasty-morsels/life-you'
