@@ -29,6 +29,36 @@ track5_title: These New Puritans - This Guy's In Love With You
 track1_color: dreamy
 track5_color: bliss
 ---
-## A New Post
+<p id="introduction">This morning, -----
+</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+# **infinite bisous’ selection**
+
++ ## h hunt - rice wine
+_infinite bisous_: **"**harry and i have been close friends since we were about 13, last year i recorded him playing piano in paris, as a present for his dad. it's a record i'm very proud to have taken part in, even if in a small way. i listen to it a lot when cooking, or falling asleep. 'rice wine' is a beautiful example of a piece of music which itself takes time to wake up, and so it is perfect to wake up with.**"**
+
++ ## Cluster - Sowiesoso
+_infinite bisous_:: **"**so, you stayed at my place, we already listened to 'rice wine', i'm in the other room makin' breakfast and i've opened the blinds and left this on. that's a nice morning to me.**"**
+
++ ## Haruomi Hosono - Pleocene
+_infinite bisous_: **"**a real sunday classic here; this is a 'socks on' kind of moment, not yet got ya trousies on but you're feelin like "this is gonna be a good one".**"**
+
+
+# Mailtape's selection
+
++ ## infinite bisous - life + you
+_Inès_: **"**???????**"**
+
++ ## ?????
+_Inès_: **"**en attente**"**
+
+
++ ## Ménage à Trois - Conditional Love
+_Inès_: **"**This song feels like being in a car, windows open, driving endlessly on a hot summer day, the wind blowing inside making the temperature perfect, wearing sunglasses, foolishly smiling.**"**
+
++ ## Ben Ji - Anchors
+_Inès_: **"**I couldn’t stop listening to this song after hearing it for the first time and I still don’t really know why. It’s a bit all over the place. It’s like that tiny hyperactive moment after your first coffee, when you feel like you can do anything and nothing can stop you.**"**
+
+
+<p id="outroduction">That’s all folks! Thanks to [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook") for his participation and Pierre-Julien for the illustration. Have an ???? Sunday! </p>
